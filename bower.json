@@ -1,6 +1,6 @@
 {
-  "name": "isotope-layout",
-  "description": "Filter and sort magical layouts",
+  "name": "isotope-next",
+  "description": "Filter and sort magical layouts for Next.js",
   "main": "js/isotope.js",
   "dependencies": {
     "desandro-matches-selector": "^2.0.0",
