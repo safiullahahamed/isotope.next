@@ -1,7 +1,7 @@
 /**
  * Isotope Item
 **/
-
+if (typeof window === "undefined") {
 ( function( window, factory ) {
   // universal module definition
   if ( typeof define == 'function' && define.amd ) {
@@ -74,3 +74,4 @@ proto.destroy = function() {
 return Item;
 
 } ) );
+}
