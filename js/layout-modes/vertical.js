@@ -1,7 +1,7 @@
 /**
  * vertical layout mode
  */
-
+if (typeof window === "undefined") {
 ( function( window, factory ) {
   // universal module definition
   if ( typeof define == 'function' && define.amd ) {
@@ -51,3 +51,4 @@ proto._getContainerSize = function() {
 return Vertical;
 
 } ) );
+}
