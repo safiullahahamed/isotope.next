@@ -3,7 +3,7 @@
  * sub-classes Masonry
  * https://masonry.desandro.com
  */
-
+if (typeof window === "undefined") {
 ( function( window, factory ) {
   // universal module definition
   if ( typeof define == 'function' && define.amd ) {
@@ -71,3 +71,4 @@
   return MasonryMode;
 
 } ) );
+}
