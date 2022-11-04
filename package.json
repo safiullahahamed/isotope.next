@@ -1,7 +1,7 @@
 {
-  "name": "isotope-layout",
+  "name": "isotope-next",
   "version": "3.0.6",
-  "description": "Filter and sort magical layouts",
+  "description": "Filter and sort magical layouts for Next.js",
   "main": "js/isotope.js",
   "files": [
     "js",
