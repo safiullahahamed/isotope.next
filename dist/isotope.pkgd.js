@@ -15,7 +15,7 @@
  */
 
 /* jshint browser: true, strict: true, undef: true, unused: true */
-
+if (typeof window === "undefined") {
 ( function( window, factory ) {
   // universal module definition
   /*jshint strict: false */ /* globals define, module, require */
@@ -3560,4 +3560,4 @@ var trim = String.prototype.trim ?
   return Isotope;
 
 }));
-
+}
