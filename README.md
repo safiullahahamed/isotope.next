@@ -1,31 +1,16 @@
-# Isotope
+# Isotope.next
 
-_Filter & sort magical layouts_
+_Filter & sort magical layouts for Next.js_
 
 See [isotope.metafizzy.co](https://isotope.metafizzy.co) for complete docs and demos.
 
 ## Install
 
-### Download
-
-+ [isotope.pkgd.js](https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js) un-minified, or
-+ [isotope.pkgd.min.js](https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js) minified
-
-### CDN
-
-Link directly to Isotope files on [unpkg](https://unpkg.com).
-
-``` html
-<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
-<!-- or -->
-<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
-```
-
 ### Package managers
 
-npm: `npm install isotope-layout --save`
+npm: `npm install isotope-next --save`
 
-Bower: `bower install isotope-layout --save`
+Bower: `bower install isotope-next --save`
 
 ## License
 
