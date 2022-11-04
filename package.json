@@ -35,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/metafizzy/isotope.git"
+    "url": "git://github.com/safiullahahamed/isotope.next.git"
   },
   "bugs": {
-    "url": "https://github.com/metafizzy/isotope/issues"
+    "url": "https://github.com/safiullahahamed/isotope.next/issues"
   },
   "homepage": "https://isotope.metafizzy.co",
   "directories": {
